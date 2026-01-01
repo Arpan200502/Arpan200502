@@ -11,7 +11,7 @@
 
 📈 Focused on writing clean, readable, and maintainable code
 
-🧪 Hands-on debugging, testing, and performance optimizatio
+🧪 Hands-on debugging, testing, and performance optimization
 
 🌱 Continuously learning modern web & AI-assisted tools
 
