@@ -5,7 +5,7 @@
 
 🛠️ Regularly builds practical projects that address real-world problems observed in everyday use  
  
-⚙️ Experience working with REST APIs, authentication & databases 
+⚙️ Experience working with REST APIs, authentication & databases  
 
 🤝 Comfortable collaborating in teams using Git & GitHub
 
