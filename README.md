@@ -7,7 +7,7 @@
  
 ⚙️ Experience working with REST APIs, authentication & databases  
 
-🤝 Comfortable collaborating in teams using Git & GitHub
+🤝 Comfortable collaborating in teams using Git & GitHub 
 
 📈 Focused on writing clean, readable, and maintainable code
 
