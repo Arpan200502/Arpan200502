@@ -1,5 +1,5 @@
  # 💫 About Me:  
-🟢▶ &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
+<p>● Feature one</p> &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
 🟢▶ &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br>
 🟢▶ &nbsp; Regularly builds practical projects that address real-world problems observed in everyday use  .<br>
 🟢▶ &nbsp; Experience working with REST APIs, authentication & databases  .<br>
