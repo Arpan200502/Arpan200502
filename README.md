@@ -1,12 +1,12 @@
  # 💫 About Me:  
-• &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
-• &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br>
-• &nbsp; Regularly builds practical projects that address real-world problems observed in everyday use  .<br>
-• &nbsp; Experience working with REST APIs, authentication & databases  .<br>
-• &nbsp; Comfortable collaborating in teams using Git & GitHub .<br>
-• &nbsp; Focused on writing clean, readable, and maintainable code.<br>
-• &nbsp; Hands-on debugging, testing, and performance optimization.<br>
-• &nbsp; Continuously learning modern web & AI-assisted tools .<br>
+⬤ &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
+⬤ &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br>
+⬤ &nbsp; Regularly builds practical projects that address real-world problems observed in everyday use  .<br>
+⬤ &nbsp; Experience working with REST APIs, authentication & databases  .<br>
+⬤ &nbsp; Comfortable collaborating in teams using Git & GitHub .<br>
+⬤ &nbsp; Focused on writing clean, readable, and maintainable code.<br>
+⬤ &nbsp; Hands-on debugging, testing, and performance optimization.<br>
+⬤ &nbsp; Continuously learning modern web & AI-assisted tools .<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpanmukherjee2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpanmukherjee255@gmail.com) 
