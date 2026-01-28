@@ -1,18 +1,11 @@
  # 💫 About Me:  
 🎓 Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems
- 
 💻 Hands-on experience with React and the MERN stack through academic projects and a remote internship
-
 🛠️ Regularly builds practical projects that address real-world problems observed in everyday use  
- 
 ⚙️ Experience working with REST APIs, authentication & databases  
-
 🤝 Comfortable collaborating in teams using Git & GitHub 
-
 📈 Focused on writing clean, readable, and maintainable code
-
 🧪 Hands-on debugging, testing, and performance optimization
-
 🌱 Continuously learning modern web & AI-assisted tools 
 
 ## 🌐 Socials:
