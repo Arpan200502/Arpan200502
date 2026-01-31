@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Mukherjee</h1>
-<h3 align="center">Backend-focused full-stack developer from INDIA</h3>
+<h3 align="center">Backend-focused full-stack developer from India</h3>
 
 
 <h2>💫 About Me:  </h2>
