@@ -1,16 +1,5 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arpan200502&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arpan200502&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan200502&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arpan200502&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Arpan200502&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><h1 align="center">Hi 👋, I'm Arpan Mukherjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 # 💫 About Me:  
 ◆ &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
