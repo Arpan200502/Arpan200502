@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Mukherjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack MERN & GenAI Developer | Intern @ Infosys Springboard | Former Intern @ GC Foundation | Building Modern Web & AI Solutions</h3>
 
 
 <h2>💫 About Me:  </h2>
