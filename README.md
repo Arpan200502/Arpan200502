@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-# 💫 About Me:  
+<h3>💫 About Me:  </h3>
 ◆ &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
 ◆ &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br>
 ◆ &nbsp; Regularly builds practical projects that address real-world problems observed in everyday use  .<br>
