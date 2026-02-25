@@ -1,7 +1,7 @@
 <h1 align="center">Hi<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="40" height="40">
-</picture>, I'm Arpan Mukherjee</h1>
+</picture>, I'm Arpan Mukherjee</h1> 
 <h3 align="center">Backend-focused full-stack developer from India</h3>
   <div align="center"> 
 <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" width="100%" /></div>  
