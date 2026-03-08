@@ -9,7 +9,7 @@
 <h1>💫 About Me:  </h1>
 ◆ &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
 ◆ &nbsp; Open-source contributor to large-scale production codebases, working with real-world review workflows and CI pipelines.<br>
-◆ &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br>
+◆ &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br> 
 ◆ &nbsp; Regularly builds practical Gen AI projects that address real-world problems observed in everyday use  .<br>
 ◆ &nbsp; Experience working with REST APIs, authentication & databases  .<br>
 ◆ &nbsp; Comfortable collaborating in teams using Git & GitHub .<br>
