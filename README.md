@@ -6,7 +6,7 @@
   <div align="center">  
 <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" width="100%" /></div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan200502&label=Profile%20views&color=0e75b6&style=flat" alt="arpan200502" /> </p>
-<h1>💫 About Me:  </h1>
+<h1>💫 About Me:  </h1> 
 ◆ &nbsp; Final-year BCA student with a clear understanding of DBMS, OOPS, Computer Networks, and Operating Systems.<br>
 ◆ &nbsp; Open-source contributor to large-scale production codebases, working with real-world review workflows and CI pipelines.<br>
 ◆ &nbsp; Hands-on experience with React and the MERN stack through academic projects and a remote internship.<br> 
