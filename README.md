@@ -1,5 +1,5 @@
 <h1 align="center">Hi<picture>   
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp"> 
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">  
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="40" height="40">   
 </picture>, I'm Arpan Mukherjee</h1>  
 <h3 align="center">Open-Source Contriuter & Backend-focused full-stack developer from India</h3>   
