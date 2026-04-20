@@ -3,7 +3,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="40" height="40">   
 </picture>, I'm Arpan Mukherjee</h1>  
 <h3 align="center">Open-Source Contriuter & Backend-focused full-stack developer from India</h3>   
-  <div align="center">   
+  <div align="center">    
 <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" width="100%" /></div>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan200502&label=Profile%20views&color=0e75b6&style=flat" alt="arpan200502" /> </p>
 <h1>💫 About Me:  </h1>  
